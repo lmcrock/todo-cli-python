@@ -10,4 +10,12 @@ This is a simple command-line To-Do List app written in Python as part of the SE
 
 ## How to Run
 
-1. Clone the repository:
+Clone the repository:
+git clone https://github.com/lmcrock/todo-cli-python.git
+
+Navigate to the project directory:
+cd todo-cli-python
+
+Run the application:
+python todo_app.py
+
